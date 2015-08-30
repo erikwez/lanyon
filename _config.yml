@@ -5,7 +5,9 @@ permalink:           /:year/:title
 relative_permalinks: true
 
 # Dependencies
-markdown:         redcarpet
+markdown:         kramdown
+kramdown:
+    input: GFM
 #highlighter:      pygments
 
 # Setup

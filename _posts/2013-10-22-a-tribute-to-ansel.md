@@ -9,9 +9,9 @@ tags:
   - yosemite
 ---
 
-![View of Yosemite Valley from El Portal ](/assets/img/20130725-DSC04787.jpg "")
+![View of Yosemite Valley from El Portal ](/assets/img/20130725-DSC04787.jpg "Photo of Yosemite Valley")
 
 
-My family toured the West Coast this summer, and a visit to Yosemite Valley was included on the route. I do love the work of [Ansel Adams][1], and this is my meager tribute to this great photographer.
+My family toured the West Coast this summer, and a visit to Yosemite Valley was included on the route. I do love the work of [Ansel Adams][ansel], and this is my meager tribute to this great photographer.
 
-[1]: http://www.anseladams.com/ "Our Mission | The Ansel Adams Gallery"
+[ansel]: http://www.anseladams.com/ "The Ansel Adams Gallery"

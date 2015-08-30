@@ -8,7 +8,7 @@ tags:
   - osx
 ---
 
-![Creating USB-installer in the Terminal](/assets/img/installUSB.png "")
+![Creating USB-installer in the Terminal](/assets/img/installUSB.png " ")
 
 *This was written for the Mavericks GM-version. Unless Apple changes things, it should be valid for the final version*.
 
@@ -36,6 +36,6 @@ The command must be run as admin, so type in your admin-password. Now wait 15-20
 
 Restart and hold down the option-key to boot from the newly created USB installer.
 
-[^1]: You can, of course, name the volume whatever you like. Just make sure to specify the correct volume-name in the createinstallmedia command `--volume /Volumes/"volume-name"` 
+[^1]: You can, of course, name the volume whatever you like. Just make sure to specify the correct volume-name in the createinstallmedia command `--volume /Volumes/"volume-name"`
 
 [installML]: http://osxdaily.com/2012/02/17/make-bootable-os-x-10-8-mountain-lion-usb-install-drive/

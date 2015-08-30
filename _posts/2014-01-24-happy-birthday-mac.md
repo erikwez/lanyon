@@ -10,11 +10,11 @@ tags:
 ---
 
 
-![The Apple II and the Macintosh SE/30 ](/assets/img/20140124-DSC06937-1200x840.jpg "")
+![The Apple II and the Macintosh SE/30 ](/assets/img/20140124-DSC06937-1200x840.jpg " ")
 
 Today marks the 30th anniversary for the Macintosh. Happy Birthday, Mac!
 
-I didn't become a Mac-user until 1990, but I've owned and used most of the models. Looking through [MacTracker][0], I think the [Macintosh 512K][1] and [Macintosh XL][2] (the renamed Lisa) are the only models I've never put my hands on.  
+I didn't become a Mac-user until 1990, but I've owned and used most of the models. Looking through [MacTracker][0], I think the [Macintosh 512K][1] and [Macintosh XL][2] (the renamed Lisa) are the only models I've never put my hands on.
 
 The first Apple my family got wasn't a Macintosh, but a 1978 model [Apple II][3]. It came with a whopping 48KB of RAM, which we later upgraded to 64KB. I had a lot of fun with this computer, PEEK'ing and POKE'ing the registers. Naturally, [Space Invaders][7] was the most used game.
 

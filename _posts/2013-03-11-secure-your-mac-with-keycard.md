@@ -5,7 +5,7 @@ date: 2013-03-11
 categories: Geeky
 ---
 
-![Image of KeyCard in action](/assets/img/keycard.png "")
+![Image of KeyCard in action](/assets/img/keycard.png " ")
 You *do* password protect your Mac, don't you? You don't have automatic login, and you've set your computer to require password after sleep or screen saver kicks in? Right? That's a good start[^filevault].
 
 I often leave my Mac in the office whilst doing other stuff at work, and I don't like the idea that someone might sit down and do things on *my* computer. I've come to the habit of invoking the screen saver with [Alfred][alfred] or [LaunchBar][launchbar] (long time LaunchBar user, but trying Alfred 2 beta at the moment). Well, such habits are too easy to forget. Fortunately I came across [Keycard].

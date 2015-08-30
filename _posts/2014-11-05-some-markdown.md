@@ -3,6 +3,7 @@ layout: post
 title: Some Markdown Testing
 date: 2014-11-05
 categories: markdown
+excerpt: Just trying some markdown.
 ---
 
 

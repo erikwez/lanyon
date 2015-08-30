@@ -9,7 +9,7 @@ tags:
   - osx
 ---
 
-![Image of PopClip in action](/assets/img/PopClip.png "")
+![Image of PopClip in action](/assets/img/PopClip.png " ")
 
 [PopClip][1] from [Pilotmoon Software][0] is a handy utility for working with text. PopClip appears when you select text with your mouse, much the same way as you see on iOS.
 
@@ -17,7 +17,7 @@ Now a pop up with cut, copy and paste wouldn't be too much to be exited about, b
 
 PopClip has quickly become one of my favorite utilities, the only problem being that it would **only appear when you select text with your mouse**. When writing, my hands are mostly on the keyboard, and text selections are done using the keyboard. PopClip does not appear when selecting text this way.
 
-Fortunately, PopClip has AppleScript support, and the [user guide][3] states you can activate PopClip using: 
+Fortunately, PopClip has AppleScript support, and the [user guide][3] states you can activate PopClip using:
 
     tell application "PopClip" to appear
 
