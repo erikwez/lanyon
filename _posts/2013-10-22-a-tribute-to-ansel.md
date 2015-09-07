@@ -3,6 +3,7 @@ layout: post
 title: A Tribute to Ansel
 date: 2013-07-25
 categories: Photography
+excerpt: My meager tribute to Ansel.
 tags:
   - el capitan
   - half dome
