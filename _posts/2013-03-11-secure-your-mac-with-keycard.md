@@ -3,6 +3,9 @@ layout: post
 title: Secure your Mac with Keycard
 date: 2013-03-11
 categories: Geeky
+tags:
+  - keycard
+  - security
 ---
 
 ![Image of KeyCard in action](/assets/img/keycard.png " ")
