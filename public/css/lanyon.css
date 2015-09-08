@@ -655,3 +655,16 @@ a.pagination-item:hover {
 	border-top-right-radius:3px;
 	border-bottom-right-radius:3px
 	}
+
+/********************************************************/
+/*                   CATEGORY                        */
+/*             Category listing page                    */
+/********************************************************/
+
+.category-list {
+  padding-top: 2em;
+}
+
+.category-date {
+line-height: 3px;
+}
