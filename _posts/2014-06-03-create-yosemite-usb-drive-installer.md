@@ -7,6 +7,7 @@ categories: Geeky
 tags:
   - yosemite
   - osx
+alias: /create-yosemite-usb-drive-installer/
 ---
 
 ## Update October 19, 2014

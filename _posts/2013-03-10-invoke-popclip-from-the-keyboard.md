@@ -7,6 +7,7 @@ tags:
   - popclip
   - keyboardmaestro
   - osx
+alias: /invoke-popclip-from-the-keyboard/
 ---
 
 ![Image of PopClip in action](/assets/img/20130310-PopClip.png " ")

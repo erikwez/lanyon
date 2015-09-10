@@ -8,6 +8,7 @@ tags:
   - el capitan
   - half dome
   - yosemite
+alias: /a-tribute-to-ansel/
 ---
 
 ![View of Yosemite Valley from El Portal ](/assets/img/20130725-yosemite-valley.jpg "Photo of Yosemite Valley")

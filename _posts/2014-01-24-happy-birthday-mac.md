@@ -7,6 +7,7 @@ tags:
   - apple
   - se/30
   - mac
+alias: /happy-birthday-mac/
 ---
 
 
