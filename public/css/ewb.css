@@ -1,10 +1,10 @@
 /*****************************************************************************
- * Overrides to default lanyon.css
+ * Overrides to default default css-files
  * CSS for extra functionality
  *****************************************************************************/
 
 /*****************************************************************************
- * Global resets - ovverrides to lanyon.css
+ * ovverrides to lanyon.css
  *****************************************************************************/
 
 
@@ -28,6 +28,17 @@ h1, h2, h3, h4, h5, h6 {
   font-family: Oswald, serif;
 }
 
+/*****************************************************************************
+ * ovverrides to poole.css
+ *****************************************************************************/
+
+/* Code blocks don't wrap*/
+pre {
+  overflow: auto;
+  white-space: pre;
+  word-break: normal;
+  word-wrap: normal;
+}
 
 /*****************************************************************************
   Styling of post-tags and category
