@@ -4,10 +4,16 @@ layout: default
 
 <div class="post">
   <h1 class="post-title">{{ page.title }}</h1>
-  <span class="post-date">{{ page.date | date_to_string }}</span>
+  <span class="post-date"><i class="fa fa-calendar"></i> {{ page.date | date_to_string }}</span>
   {% if page.categories %}
     <div class="post-categories">Categories: {{ page.categories' }}</div>
   {% endif %}
+
+      {% comment %}
+      Tags-visning knabbet fra Michael Lanyon. https://github.com/lanyonm/lanyonm.github.io
+    {% endcomment %}
+   <p class="entry-tags"><i class="fa fa-tags"></i> {% for tag in page.tags %}<a href="{{ site.url }}/tags.html#{{ tag | cgi_escape }}" title="Pages tagged {{ tag }}" rel="tag">{{ tag }}</a>{% unless forloop.last %} &bull; {% endunless %}{% endfor %}</p>
+
   {{ content }}
 </div>
 
