@@ -44,7 +44,7 @@ pre {
   Styling of post-tags and category
  *****************************************************************************/
 
-.entry-tags {
+.post-entry-tags {
   display: block;
   margin-top: -.5rem;
   margin-bottom: 1rem;
