@@ -14,9 +14,9 @@ kramdown:
 title:               erikwb.net
 tagline:             'Whatever escapes'
 description:         'Just some of my ramblings.'
-url:                  http://localhost:4000
+url:                  http://erikwb.net
 baseurl:             ''
-paginate:            10
+paginate:            5
 
 # About/contact
 author:

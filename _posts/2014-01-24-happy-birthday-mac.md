@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Happy birthday, Mac
-date: 2013-07-25
+date: 2014-01-24
 categories: Geeky
 tags:
   - apple
@@ -10,7 +10,7 @@ tags:
 ---
 
 
-![The Apple II and the Macintosh SE/30 ](/assets/img/20140124-DSC06937-1200x840.jpg " ")
+![The Apple II and the Macintosh SE/30 ](/assets/img/20140124-happy-birthday-mac.jpg " ")
 
 Today marks the 30th anniversary for the Macintosh. Happy Birthday, Mac!
 

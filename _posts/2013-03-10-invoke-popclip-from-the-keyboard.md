@@ -9,7 +9,7 @@ tags:
   - osx
 ---
 
-![Image of PopClip in action](/assets/img/PopClip.png " ")
+![Image of PopClip in action](/assets/img/20130310-PopClip.png " ")
 
 [PopClip][1] from [Pilotmoon Software][0] is a handy utility for working with text. PopClip appears when you select text with your mouse, much the same way as you see on iOS.
 
@@ -19,11 +19,15 @@ PopClip has quickly become one of my favorite utilities, the only problem being 
 
 Fortunately, PopClip has AppleScript support, and the [user guide][3] states you can activate PopClip using:
 
+{% highlight applescript %}
+
     tell application "PopClip" to appear
+
+{% endhighlight %}
 
 There are many ways to trigger this AppleScript. [George Coghill][5] shows one option using Automator and Services. I chose to use the exellent [Keyboard Maestro][6]. Create a new macro with the AppleScript action, and assign it a keyboard shortcut.
 
-![KeyboardMaestro macro for invoking PopClip](../../assets/img/km-macro-show-pop-clip.png "")
+![KeyboardMaestro macro for invoking PopClip](/assets/img/20130310-km-macro-show-pop-clip.png "")
 
 Now whenever I select some text and press ⌃+⌥+P, PopClip appears, and I can use the arrow-keys and space/return to execute the action.
 

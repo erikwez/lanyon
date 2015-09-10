@@ -8,7 +8,7 @@ tags:
   - osx
 ---
 
-![Creating USB-installer in the Terminal](/assets/img/installUSB.png " ")
+![Creating USB-installer in the Terminal](/assets/img/20131006-installUSB.png " ")
 
 *This was written for the Mavericks GM-version. Unless Apple changes things, it should be valid for the final version*.
 
@@ -30,7 +30,9 @@ Format the media as Mac OS X Extended (Journaled) with GUID partition mapping. N
 
 Now launch the Terminal and enter
 
+{% highlight bash %}
     sudo /Applications/Install\ OS\ X\ Mavericks.app/Contents/Resources/createinstallmedia --volume /Volumes/Untitled --applicationpath /Applications/Install\ OS\ X\ Mavericks.app --nointeraction
+{% endhighlight %}
 
 The command must be run as admin, so type in your admin-password. Now wait 15-20 minutes for the process to finish.
 

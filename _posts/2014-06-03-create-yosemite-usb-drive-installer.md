@@ -2,7 +2,7 @@
 layout: post
 title: Create Yosemite USB-drive Installer
 date: 2014-06-03
-excerpt: How to create a bootable USB-drive with the Yosemite (OS X 10.9) installer.
+excerpt: How to create a bootable USB-drive with the Yosemite (OS X 10.10) installer.
 categories: Geeky
 tags:
   - yosemite
@@ -21,7 +21,9 @@ With the release version of OS X 10.10, `createinstallmedia` finally works. You 
 
 In Terminal, enter:
 
+{% highlight bash %}
     $ sudo /Applications/Install\ OS\ X\ Yosemite.app/Contents/Resources/createinstallmedia --volume /Volumes/Untitled --applicationpath /Applications/Install\ OS\ X\ Yosemite.app --nointeraction
+{% endhighlight %}
 
 Type in your administrative password.
 
@@ -46,7 +48,9 @@ Mount the InstallESD.dmg image that's under the installer /Contents/SharedSuppor
 
 Mount BaseSystem.dmg using the Terminal
 
+{% highlight bash %}
     $ open "/Volumes/OS X Install ESD/BaseSystem.dmg"
+{% endhighlight %}
 
 Using Disk Utility, Restore the "OS X Base System" volume to your USB stick.
 
@@ -58,7 +62,9 @@ Copy the "Packages" folder from "OS X Install ESD" to the System/Installation fo
 
 Using Terminal, copy BaseSystem.dmg and BaseSystem.chunklist (they are both hidden from the Finder) from OS X Install ESD to your USB stick
 
+{% highlight bash %}
     $ cp "/Volumes/OS X Install ESD/BaseSystem.* /Volumes/yosemiteDP1"
+{% endhighlight %}
 
 Unmount the stick, boot away.
 
@@ -70,7 +76,7 @@ Let’s hope this bug is fixed before Yosemite DP2
 
 
 
-[1]: http://erikwb.net/create-mavericks-usb-drive-installer/ "Create Mavericks USB-drive Installer"
+[1]: /2013/create-mavericks-usb-drive-installer/ "Create Mavericks USB-drive Installer"
 [2]: https://jimlindley.com/blog/yosemite-upgrade-homebrew-tips/ "Faster Mac OS X 10.10 Yosemite Upgrades for Developers – Jim Lindley"
 [3]: http://diskmakerx.com/ "DiskMaker X (formerly Lion DiskMaker)"
 [4]: http://support.apple.com/kb/HT5856 "Creating a bootable OS X installer in OS X Mavericks"
