@@ -6,7 +6,6 @@ categories: Miscellaneous
 tags:
   - earth
   - nasa
-alias: /earth-from-orbit-2012/
 ---
 
 

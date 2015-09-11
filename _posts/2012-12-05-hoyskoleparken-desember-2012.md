@@ -3,7 +3,6 @@ layout: post
 title: Høyskoleparken – desember 2012
 date: 2012-12-05
 categories: Photography
-alias: /hoyskoleparken-desember-2012/
 ---
 
 ![Høyskoleparken](/assets/img/20121204-hoyskoleparken.jpg " ")

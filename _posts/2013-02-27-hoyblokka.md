@@ -3,7 +3,6 @@ layout: post
 title: Høyblokka
 date: 2013-02-27
 categories: Photography
-alias: /hoyblokka/
 ---
 
 ![Høyblokka i Holtermannsveien](/assets/img/20120615-hoyblokka.jpg " ")

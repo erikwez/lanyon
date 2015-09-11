@@ -1,0 +1,12 @@
+ErrorDocument 404 /404.html
+
+Redirect 301 /some-defaults /2013/some-defaults
+Redirect 301 /secure-your-mac-with-keycard /2013/secure-your-mac-with-keycard
+Redirect 301 /invoke-popclip-from-the-keyboard /2013/invoke-popclip-from-the-keyboard
+Redirect 301 /hoyskoleparken-desember-2012 /2012/hoyskoleparken-desember-2012
+Redirect 301 /hoyblokka /2013/hoyblokka
+Redirect 301 /happy-birthday-mac /2014/happy-birthday-mac
+Redirect 301 /earth-from-orbit-2012 /2013/earth-from-orbit-2012
+Redirect 301 /create-yosemite-usb-drive-installer /2014/create-yosemite-usb-drive-installer
+Redirect 301 /create-mavericks-usb-drive-installer /2013/create-mavericks-usb-drive-installer
+Redirect 301 /a-tribute-to-ansel /2013/a-tribute-to-ansel

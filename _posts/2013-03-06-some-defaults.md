@@ -6,7 +6,6 @@ categories: Geeky
 tags:
   - defaults
   - osx
-alias: /some-defaults/
 ---
 
 Some settings I just like to apply on my Macs. There are lots of resources for finding these "hidden" preferences. A good place to start is [Secrets][1]. You can download a Preference Pane for easy access to tweaking your settings. An application like [MacPilot][2] can also be used.

@@ -6,7 +6,6 @@ categories: Geeky
 tags:
   - keycard
   - security
-alias: /secure-your-mac-with-keycard/
 ---
 
 ![Image of KeyCard in action](/assets/img/20130311-keycard.png " ")

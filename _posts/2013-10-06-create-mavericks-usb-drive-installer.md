@@ -6,7 +6,6 @@ categories: Geeky
 tags:
   - mavericks
   - osx
-alias: /create-mavericks-usb-drive-installer/
 ---
 
 ![Creating USB-installer in the Terminal](/assets/img/20131006-installUSB.png " ")

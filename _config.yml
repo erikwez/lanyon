@@ -17,7 +17,7 @@ description:         'Just some of my ramblings.'
 url:                  http://erikwb.net
 baseurl:             ''
 paginate:            5
-safe:                false
+# safe:                false
 
 # About/contact
 author:
