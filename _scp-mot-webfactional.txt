@@ -1,0 +1,11 @@
+scp [-12346BCEpqrv] [-c cipher] [-F ssh_config] [-i identity_file]
+         [-l limit] [-o ssh_option] [-P port] [-S program]
+         [[user@]host1:]file1 ... [[user@]host2:]file2
+
+scp -r public/* harakiri:apps/henrik.nyh.se/
+
+scp -r /Users/erikwb/projects/erikwb.net/_site/* erikwb@snipper.tele.ntnu.no:/Volumes/snipper/Users/erikwb/jekyll/
+
+scp -r /Users/erikwb/projects/erikwb.net/_site/* erikwb@erikwb.webfactional.com:webapps/jekyll/
+
+Denna funker. Trenger passord. Må sette opp ssh-id
