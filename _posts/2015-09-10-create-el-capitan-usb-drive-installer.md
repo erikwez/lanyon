@@ -23,13 +23,14 @@ El Capitan is the third OS X version where the installer ships with the executab
 3. Open the Terminal (/Applications/Utilities/Terminal) and enter:
 
 {% highlight bash %}
-sudo /Applications/Install\ OS\ X\ El\ Capitan\ GM\ Candidate.app/Contents/Resources/createinstallmedia --volume /Volumes/Untitled --applicationpath /Applications/Install\ OS\ X\ El\ Capitan\ GM\ Candidate.app --nointeraction
+sudo /Applications/Install\ OS\ X\ El\ Capitan.app/Contents/Resources/createinstallmedia --volume /Volumes/Untitled/ --applicationpath /Applications/Install\ OS\ X\ El\ Capitan.app --nointeraction
 {% endhighlight %}
 
+<div class="message">Update 2015-11-12: Command corrected for the final release of El Capitan</div>
 
 Type in your administrative password, and wait 15-20 minutes for the process to finish. Hold down ⌥ during startup to boot from the newly created USB installer.
 
-The command is for the El Capitan GM (Golden Master), so you probably need to correct the "El Capitan Install App"-name. Remember [tab completion][3]. Start typing the path `/Appl`and press ⇥. Terminal will expand this to `/Applications/`. Continue with `Inst`and press ⇥ to expand this to the full name of the installer. In my case `Install\ OS\ X\ El\ Capitan\ GM\ Candidate.app/`. The backslashes escapes the spaces in the file name. Continue this process all the way down to `createinstallmedia`.
+<del>The command is for the El Capitan GM (Golden Master), so you probably need to correct the "El Capitan Install App"-name.</del> Remember [tab completion][3]. Start typing the path `/Appl`and press ⇥. Terminal will expand this to `/Applications/`. Continue with `Inst`and press ⇥ to expand this to the full name of the installer. <del>In my case `Install\ OS\ X\ El\ Capitan\ GM\ Candidate.app/`.</del> The backslashes escapes the spaces in the file name. Continue this process all the way down to `createinstallmedia`.
 
 ### Homebrew and /usr/local
 
