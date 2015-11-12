@@ -40,6 +40,14 @@ pre {
   word-wrap: normal;
 }
 
+.message {
+  margin-bottom: .6rem;
+  padding: .6rem;
+  font-size: .8rem;
+  color: rgba(255, 255, 255, 0.9);
+  background-color: rgb(106, 159, 181);
+}
+
 /*****************************************************************************
   Styling of post-tags and category
  *****************************************************************************/
